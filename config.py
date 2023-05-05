@@ -1,1 +1,1 @@
-from dem_hyperelasticity.importlib import *
+from dem_hyperelasticity.dem_imports import *
